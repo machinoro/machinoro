@@ -4,7 +4,9 @@ Hi, I am Hieu and you are in my profile
 ## About me
 
 I was a [FIRST Global Challenge](https://first.global/fgc/) participant in 2025, sometime you still can see me volunteering in FIRST events in Vietnam 
+
 I'm studying multimedia engineering in [HUST](https://hust.edu.vn), class of 2029
+
 I also do research in Robotics and Autonomous systems 
 
 - Hobby: r/unixporn, robotics, Linux, physics sim, C, embedded, chess, open source, ... only god knows 
